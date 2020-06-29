@@ -1,0 +1,11 @@
+rect("blue")
+rt(90)
+fd(50)
+lt(90)
+rect("black")
+rt(90)
+fd(50)
+lt(90)
+rect("white")
+
+exitonclick()
