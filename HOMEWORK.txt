@@ -175,5 +175,12 @@ Task: add Novosibisk, Tver, Ivangorod
 
 
 29/06/2020
-1. Prepare to Exam2 (learn all subjects)
-2. Написать программу которая вычисляет 1 процент от любой указанной суммы.
+1. +Prepare to Exam2 (learn all subjects)
+2. +Написать программу которая вычисляет 1 процент от любой указанной суммы.
+
+02/07/2020
+1. +Fill list with fruits (10-15) =)
+2. +print ("banana", "cherry",) [n:m]
+3. commit 2.07 to github
+
+
