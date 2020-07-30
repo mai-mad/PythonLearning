@@ -181,6 +181,24 @@ Task: add Novosibisk, Tver, Ivangorod
 02/07/2020
 1. +Fill list with fruits (10-15) =)
 2. +print ("banana", "cherry",) [n:m]
-3. commit 2.07 to github
+3. +commit 2.07 to github
 
+
+04/07/2020
+1. +Make the discount on iphones -10%, +10% (two programs)
+2. +Print last three prices
+3. commit to github
+
+
+06/07/2020
+1. Create 2 different lists. Fist list from numbers, second from string.
+2. Sum first and last elements in number list.
+3. Check existing some word in string list. (in operator)
+4. prepare to big exam (lists and not only) =)))))))
+
+27/07/20
+1. commit yourself
+2. create one tuple and one list in one file
+3. show what you can do with list and cant to do with tuple
+4. try to merge tuple with list in one (list or tuple)
 
