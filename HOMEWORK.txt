@@ -197,8 +197,13 @@ Task: add Novosibisk, Tver, Ivangorod
 4. prepare to big exam (lists and not only) =)))))))
 
 27/07/20
-1. commit yourself
-2. create one tuple and one list in one file
-3. show what you can do with list and cant to do with tuple
-4. try to merge tuple with list in one (list or tuple)
+1. -commit yourself
+2. +create one tuple and one list in one file
+3. +show what you can do with list and cant to do with tuple
+4. -try to merge tuple with list in one (list or tuple)
+
+30/07/20
+1. which ithings have your friend and compare with andother friend
+2. join all ithings both friends
+
 
