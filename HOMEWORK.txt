@@ -207,3 +207,28 @@ Task: add Novosibisk, Tver, Ivangorod
 2. join all ithings both friends
 
 
+06/08/20
+1. 0 4 7 12 16 ?19!!!!
+2. create while printing from 0 to 100 with step 5.
+3. Exam maybe =))
+4. commit all changes !!!
+
+08/08/20
+https://www.w3schools.com/python/exercise.asp?filename=exercise_for_loops1
+WHILE EXAM! REPASS!
+
+10/08/20
+1. while exam repass + for loop + functions
+2. 10 -10 21 -20 30 (91)
+   10 -10 21 -20 30 -29
+
+   10 -10 21 -20 30 -31
+
+   10 -10 21 -20 30 -31 40 -40
+3. +суммировать четные числа от 0 до 30 =))
+
+13.08.20
+1. First of all, create functions which add, minus, sub, div, mul 2 numbers (like sum())
+2. Then the same functions but with 3 parameters. All functions should return values.
+Ilya promised that everything will be okay 100% =)
+
